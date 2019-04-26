@@ -12,8 +12,8 @@ Currently, with eight teams, each team plays each other twice in a home-and-away
 
 
 ## DATA
-![image.png](./matches_columns.png)
-![image.png](./deliveries_columns.png)
+![image.png](./matches_columns.PNG)
+![image.png](./deliveries_columns.PNG)
 
 
 ## PROJECT ANALYSIS
