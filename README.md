@@ -1,5 +1,5 @@
 # My_HandsON_Work
-This repository contains my Hands_On Projects with respect to DataAnalysis/MaachineLearning
+This repository contains my Hands_On Projects with respect to DataAnalysis/MachineLearning
 
 # About Data Science
 ![image.png](./Data-science.jpg)
