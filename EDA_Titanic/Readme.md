@@ -7,12 +7,12 @@ Unable to turn quickly enough, the ship suffered a glancing blow that buckled th
 The disaster caused widespread outrage over the lack of lifeboats, lax regulations, and the unequal treatment of the three passenger classes during the evacuation.
 Inquiries recommended sweeping changes to maritime regulations, leading to the International Convention for the Safety of Life at Sea (1914), which continues to govern maritime safety.
 
-![image.png](./Titanic.jpg)
+![image.png](./Titanic.png)
 
 ## DATA
 The dataset consists of the information about people boarding the famous RMS Titanic. Various variables present in the dataset includes data of age, sex, fare, ticket etc.
 The dataset comprises of 891 observations of 12 columns. Below is a table showing names of all the columns and their description.
-![image.png](./Columns.jpg)
+![image.png](./Columns.PNG)
 
 ## PROJECT ANALYSIS
 - Please refer the jupyter notebook below on analysis part
