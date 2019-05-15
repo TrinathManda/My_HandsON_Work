@@ -8,6 +8,6 @@ confidently complete predictive modeling machine learning projects using Python 
 
 
 ## ANALYSIS
-- Please refer the jupyter notebook 
+- Please refer the PDF file and jupyter notebook 
 
 [Jupyter Notebook](./Jason_ML_MiniCourse.ipynb)
