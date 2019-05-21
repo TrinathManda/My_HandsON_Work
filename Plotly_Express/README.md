@@ -11,7 +11,9 @@ Plotly Express is compatible with Python 3+ and Python 2.7.
 Just running pip install plotly_express in your terminal should do it!
 
 
-For more reference:https://github.com/plotly/plotly_express
+For more reference:
+https://github.com/plotly/plotly_express
+https://medium.com/@plotlygraphs/introducing-plotly-express-808df010143d
 
 
 
